@@ -1,3 +1,3 @@
 # python_temel
 
-www.patika.com
+www.patika.dev
